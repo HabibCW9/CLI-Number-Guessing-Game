@@ -1,6 +1,6 @@
 {
   "name": "mar23-cli-num-gues-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI-number-guessing-game",
   "main": "game.js",
   "type": "module",
