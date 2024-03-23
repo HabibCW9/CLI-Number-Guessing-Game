@@ -1,0 +1,30 @@
+{
+  "name": "cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "CLI-number-guessing-game",
+  "main": "game.js",
+  "type": "module",
+  "bin": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HabibCW9/CLI-Number-Guessing-Game.git"
+  },
+  "keywords": [
+    "CLI-Num-Game"
+  ],
+  "author": "Habib Ul Haq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HabibCW9/CLI-Number-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/HabibCW9/CLI-Number-Guessing-Game#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
